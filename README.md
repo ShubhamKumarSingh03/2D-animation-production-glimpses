@@ -1,6 +1,8 @@
 # 2D-animation-production-glimpses
 Selected glimpses from a complete 2D animated video project, covering the creative and production process from story development and visual planning to animation, compositing, sound, and final video production.
 
+https://github.com/user-attachments/assets/7debd0bb-9135-4b5b-b570-881cbf362e01
+
 ## 🎬 2D Animation Production Workflow
 
 This project was independently developed and produced from concept to final delivery, covering the complete 2D animation production pipeline.
